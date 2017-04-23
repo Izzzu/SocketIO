@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="918f0eed-1116-445b-829e-7e2eb4ada693" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.js" afterPath="$PROJECT_DIR$/index.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="client.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>emit</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/client.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="146" />
+    <option name="y" value="137" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SocketIO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SocketIO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.lastSelected" value="org.jetbrains.plugins.scala.compiler.ScalaApplicationSettingsForm" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="918f0eed-1116-445b-829e-7e2eb4ada693" name="Default" comment="" />
+      <created>1492954132175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1492954132175</updated>
+      <workItem from="1492954133416" duration="5794000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5794000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="146" y="137" width="1400" height="1000" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32924336" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/socket.io/lib/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="422" column="4" lean-forward="false" selection-start-line="422" selection-start-column="0" selection-end-line="422" selection-end-column="4" />
+          <folding>
+            <marker date="1487310780000" expanded="true" signature="1:32" ph="/** Module dependencies. ...*/" />
+            <marker date="1487310780000" expanded="true" signature="484:510" ph="/** Module exports. ...*/" />
+            <marker date="1487310780000" expanded="true" signature="538:573" ph="/** Socket.IO client source. ...*/" />
+            <marker date="1487310780000" expanded="true" signature="639:784" ph="/** Server constructor. ...*/" />
+            <marker date="1487310780000" expanded="true" signature="812:1234" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="922:959" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="1236:1446" ph="/** Server request verification function, that checks for allowed origins ...*/" />
+            <marker date="1487310780000" expanded="true" signature="1498:2329" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="1865:2308" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="1875:2285" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="2297:2304" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="2332:2526" ph="/** Sets/gets whether client code is being served. ...*/" />
+            <marker date="1487310780000" expanded="true" signature="2570:2970" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="2675:2952" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="2778:2883" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="2895:2948" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="2973:3024" ph="/** Old settings for backwards compatibility ...*/" />
+            <marker date="1487310780000" expanded="true" signature="3044:3200" ph="{&quot;transports&quot;: &quot;transports&quot;...}" />
+            <marker date="1487310780000" expanded="true" signature="3203:3256" ph="/** Backwards compatibility. ...*/" />
+            <marker date="1487310780000" expanded="true" signature="3299:3908" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="3338:3582" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="3376:3576" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="3430:3568" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="3617:3645" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="3674:3699" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="3757:3800" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="3806:3890" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="3911:4066" ph="/** Sets the client serving path. ...*/" />
+            <marker date="1487310780000" expanded="true" signature="4103:4202" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="4205:4360" ph="/** Sets the adapter for rooms. ...*/" />
+            <marker date="1487310780000" expanded="true" signature="4400:4598" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="4497:4581" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="4536:4577" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="4601:4765" ph="/** Sets the allowed origins for requests. ...*/" />
+            <marker date="1487310780000" expanded="true" signature="4805:4892" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="4895:5081" ph="/** Attaches socket.io to a server or port. ...*/" />
+            <marker date="1487310780000" expanded="true" signature="5154:6201" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="5188:5356" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="5415:5443" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="5475:5674" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="5595:5645" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="6204:6316" ph="/** Attaches the static file serving. ...*/" />
+            <marker date="1487310780000" expanded="true" signature="6362:6908" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="6646:6904" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="6687:6725" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="6763:6798" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="6804:6900" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="6849:6894" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="6911:7041" ph="/** Handles a request serving `/socket.io.js` ...*/" />
+            <marker date="1487310780000" expanded="true" signature="7086:7655" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="7090:7185" ph="//..." />
+            <marker date="1487310780000" expanded="true" signature="7290:7423" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="7322:7419" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="7658:7792" ph="/** Handles a request serving `/socket.io.js.map` ...*/" />
+            <marker date="1487310780000" expanded="true" signature="7840:8357" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="7844:7939" ph="//..." />
+            <marker date="1487310780000" expanded="true" signature="8044:8177" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="8076:8173" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="8360:8521" ph="/** Binds socket.io to an engine.io instance. ...*/" />
+            <marker date="1487310780000" expanded="true" signature="8563:8667" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="8670:8802" ph="/** Called with each incoming transport connection. ...*/" />
+            <marker date="1487310780000" expanded="true" signature="8850:8982" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="8985:9132" ph="/** Looks up a namespace. ...*/" />
+            <marker date="1487310780000" expanded="true" signature="9174:9434" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="9270:9385" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="9437:9578" ph="/** Closes server connection ...*/" />
+            <marker date="1487310780000" expanded="true" signature="9617:9882" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="9660:9768" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="9713:9764" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="9817:9853" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="9859:9880" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="9885:9922" ph="/** Expose main namespace (/). ...*/" />
+            <marker date="1487310780000" expanded="true" signature="9996:10054" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="10161:10266" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="10198:10263" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="10308:10506" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="10358:10502" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="10380:10498" ph="{...}" />
+            <marker date="1487310780000" expanded="true" signature="10510:10540" ph="/** BC with `io.listen` ...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <marker date="1492961449000" expanded="true" signature="222:270" ph="{...}" />
+            <marker date="1492961449000" expanded="true" signature="354:859" ph="{...}" />
+            <marker date="1492961449000" expanded="true" signature="387:453" ph="{&quot;from&quot;: 'Admin'...}" />
+            <marker date="1492961449000" expanded="true" signature="496:599" ph="{&quot;from&quot;: 'Admin'...}" />
+            <marker date="1492961449000" expanded="true" signature="676:724" ph="{...}" />
+            <marker date="1492961449000" expanded="true" signature="771:855" ph="{...}" />
+            <marker date="1492961449000" expanded="true" signature="904:961" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <marker date="1492961449000" expanded="true" signature="21:1071" ph="..." />
+            <marker date="1492961449000" expanded="true" signature="30:766" ph="..." />
+            <marker date="1492961449000" expanded="true" signature="179:753" ph="..." />
+            <marker date="1492961449000" expanded="true" signature="775:1063" ph="..." />
+            <marker date="1492961449000" expanded="true" signature="978:1053" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
