@@ -36,6 +36,7 @@ socket.on('chatMessage', function (msg) {
     $('#messages').append(jQuery('<li>')
         .text(createdAt + ": " + msg.text));
 
+
 });
 socket.on('newMessage', function (msg) {
     console.log('newMessage', msg);

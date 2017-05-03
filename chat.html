@@ -1,36 +1,58 @@
 <!doctype html>
 <html>
 <head>
-    <title>Socket IO chat</title>
+    <title>Chat app</title>
     <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="style/foundation.css">
+    <link rel="stylesheet" type="text/css" href="style/foundation.min.css">
     <link rel="stylesheet" type="text/css" href="style/style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
+
 </head>
 <body>
+<script>
+    setInterval(function() {
+        var element = document.getElementById("mess");
+        element.scrollTop = element.scrollHeight;
+    },500);
 
+</script>
 
-<div id="main">
-    <div id="chat">
-        <ul id="messages"></ul>
-        <div id="people">
-            <h2>People</h2>
-            <div id="users">
-
+<main>
+    <div class="row">
+        <div id="chat">
+            <div class="small-9 columns" id="mess">
+                <ul id="messages"></ul>
             </div>
-
-
+            <div class="small-3 columns" id="people">
+                <h2>People</h2>
+                <div id="users">
+                </div>
+            </div>
         </div>
     </div>
-    <form id="form1" action="">
-        <input id="m" autocomplete="off"/>
-        <button>Send</button>
-    </form>
 
-</div>
 
+
+</main>
+
+<footer>
+    <div class="row">
+
+        <form class="small-centered" id="form1" action="">
+            <div class="small-9 columns">
+
+                <input type="text" id="m" autocomplete="off"/>
+            </div>
+            <button class="button small-3 columns">Send</button>
+
+        </form>
+    </div>
+</footer>
 
 <script src="/socket.io/socket.io.js"></script>
+<script src="js/library/stickyFooter.js"></script>
 <script src="js/library/jquery-3.1.0.min.js"></script>
 <script src="js/library/moment.js"></script>
 <script src="js/library/deparam.js"></script>
