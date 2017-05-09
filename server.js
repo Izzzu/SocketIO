@@ -4,7 +4,7 @@ var io = require('socket.io')(http);
 var express = require('express')
 
 const {Users} = require("./js/users");
-const {generateMessage} = require('./js/message');
+const {generateMessage, generateLocationMessage} = require('./js/message');
 var users = new Users();
 
 app.set('port', (process.env.PORT || 5000));
@@ -26,6 +26,11 @@ io.on('connection', function (socket) {
         socket.emit('newMessage', generateMessage('Admin', `Welcome to the chat (room ${params.room})`));
         socket.broadcast.to(params.room).emit('newMessage', generateMessage('Admin',`User ${params.name} joined.`));
     });
+
+    socket.on('locationMessage', (coords) => {
+        var user = users.getUser(socket.id);
+        io.to(user.room).emit('locationMessage', generateLocationMessage('Admin', coords.latitude, coords.longitude));
+    })
 
     socket.on('disconnect', function () {
         console.log('user disconnected')
